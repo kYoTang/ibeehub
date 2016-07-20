@@ -1,0 +1,1146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webulous Framework\n"
+"POT-Creation-Date: 2016-06-06 15:05+0530\n"
+"PO-Revision-Date: 2016-06-06 15:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: Webulous\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_n_noop:1,2c;"
+"_n_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/vendor/custom-meta-boxes/class.cmb-meta-box.php:84
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:68
+msgid "Add New"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:69
+msgid "Remove Field"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:1094
+msgid "None"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:1124
+msgid "Type to search"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:1453
+msgid "Add New Group"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:1454
+msgid "Remove Group"
+msgstr ""
+
+#: ../includes/vendor/custom-meta-boxes/classes.fields.php:1653
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: ../admin/class-wbls-fw-shortcode.php:215
+msgid "Current"
+msgstr ""
+
+#: ../admin/class-wbls-fw-plugin-update.php:102
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../admin/class-wbls-fw-plugin-update.php:107
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../admin/widgets/list.php:16
+msgid "List"
+msgstr ""
+
+#: ../admin/widgets/list.php:17
+msgid "Displays a list of elements with bullets"
+msgstr ""
+
+#: ../admin/widgets/list.php:25 ../admin/widgets/list.php:45
+msgid "Title of List"
+msgstr ""
+
+#: ../admin/widgets/list.php:53 ../admin/widgets/image-box.php:55
+#: ../admin/widgets/recent-posts.php:46 ../admin/widgets/skill.php:47
+#: ../admin/widgets/cta.php:59 ../admin/widgets/testimonial.php:50
+#: ../admin/widgets/social-networks.php:47 ../admin/widgets/recent-work.php:49
+#: ../admin/widgets/icon-box.php:88 ../admin/widgets/icon.php:71
+msgid "Title"
+msgstr ""
+
+#: ../admin/widgets/list.php:57
+msgid "List (start each line with *)"
+msgstr ""
+
+#: ../admin/widgets/list.php:61 ../admin/widgets/icon-box.php:96
+#: ../admin/widgets/icon.php:16 ../admin/widgets/icon.php:79
+msgid "Icon"
+msgstr ""
+
+#: ../admin/widgets/list.php:72
+msgid "Color (in hex code, #ff0000)"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:16
+msgid "Image Box"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:17
+msgid "A title and image with some text beneath it"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:59 ../admin/widgets/icon-box.php:92
+#: ../admin/widgets/icon.php:75
+msgid "Text"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:63 ../admin/widgets/image.php:34
+msgid "Image URL"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:67 ../admin/widgets/icon-box.php:123
+#: ../admin/widgets/icon.php:115
+msgid "More Text"
+msgstr ""
+
+#: ../admin/widgets/image-box.php:71 ../admin/widgets/icon-box.php:127
+#: ../admin/widgets/icon.php:119
+msgid "More URL"
+msgstr ""
+
+#: ../admin/widgets/divider.php:15
+msgid "Divider"
+msgstr ""
+
+#: ../admin/widgets/divider.php:16
+msgid "Divider Widget to divider floats"
+msgstr ""
+
+#: ../admin/widgets/divider.php:53
+msgid "Divider Style:"
+msgstr ""
+
+#: ../admin/widgets/divider.php:55 ../admin/widgets/dropcap.php:59
+msgid "Default"
+msgstr ""
+
+#: ../admin/widgets/divider.php:56
+msgid "Solid"
+msgstr ""
+
+#: ../admin/widgets/divider.php:57
+msgid "Dotted"
+msgstr ""
+
+#: ../admin/widgets/divider.php:58
+msgid "Dashed"
+msgstr ""
+
+#: ../admin/widgets/divider.php:59
+msgid "Shadow"
+msgstr ""
+
+#: ../admin/widgets/divider.php:60
+msgid "Fancy"
+msgstr ""
+
+#: ../admin/widgets/divider.php:61
+msgid "Fancy2"
+msgstr ""
+
+#: ../admin/widgets/video.php:16
+msgid "Video"
+msgstr ""
+
+#: ../admin/widgets/video.php:17
+msgid "Video Widget"
+msgstr ""
+
+#: ../admin/widgets/video.php:53
+msgid "Video ID"
+msgstr ""
+
+#: ../admin/widgets/video.php:57 ../admin/widgets/soundcloud.php:59
+msgid "Width (Numerals only)"
+msgstr ""
+
+#: ../admin/widgets/video.php:61 ../admin/widgets/soundcloud.php:63
+msgid "Height (Numerals Only)"
+msgstr ""
+
+#: ../admin/widgets/video.php:65 ../admin/widgets/soundcloud.php:67
+msgid "Show Comments"
+msgstr ""
+
+#: ../admin/widgets/gap.php:15
+msgid "Gap"
+msgstr ""
+
+#: ../admin/widgets/gap.php:16
+msgid "Gap Widget to provide gap between sections"
+msgstr ""
+
+#: ../admin/widgets/gap.php:54
+msgid "Gap Height"
+msgstr ""
+
+#: ../admin/widgets/recent-posts.php:16 ../admin/widgets/recent-posts.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: ../admin/widgets/recent-posts.php:17
+msgid "Displays Recent Posts as Slider, Carousel, etc"
+msgstr ""
+
+#: ../admin/widgets/recent-posts.php:50
+msgid "No. of Recent Posts"
+msgstr ""
+
+#: ../admin/widgets/recent-posts.php:54
+msgid "Display Type"
+msgstr ""
+
+#: ../admin/widgets/skill.php:16 ../admin/widgets/skill.php:24
+#: ../admin/widgets/skill.php:42
+#: ../admin/post-types/class-wbls-fw-skill.php:21
+#: ../admin/post-types/class-wbls-fw-portfolio.php:64
+#: ../admin/post-types/class-wbls-fw-portfolio.php:96
+msgid "Skills"
+msgstr ""
+
+#: ../admin/widgets/skill.php:17
+msgid "Displays skills details"
+msgstr ""
+
+#: ../admin/widgets/skill.php:50
+msgid "Enter skill details using skills custom post type"
+msgstr ""
+
+#: ../admin/widgets/quote.php:16
+msgid "Quote"
+msgstr ""
+
+#: ../admin/widgets/quote.php:17
+msgid "Quote Widget"
+msgstr ""
+
+#: ../admin/widgets/quote.php:51
+msgid "Alignment of Pull Quote"
+msgstr ""
+
+#: ../admin/widgets/quote.php:60
+msgid "Quote Content"
+msgstr ""
+
+#: ../admin/widgets/quote.php:64 ../admin/widgets/googlefont.php:79
+#: ../admin/widgets/dropcap.php:66
+msgid "Content"
+msgstr ""
+
+#: ../admin/widgets/cta.php:15
+msgid "Cta"
+msgstr ""
+
+#: ../admin/widgets/cta.php:16
+msgid "Cta Widget"
+msgstr ""
+
+#: ../admin/widgets/cta.php:63 ../admin/widgets/alert.php:85
+#: ../admin/widgets/ourteam.php:95
+msgid "Content:"
+msgstr ""
+
+#: ../admin/widgets/cta.php:67 ../admin/widgets/button.php:63
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/widgets/cta.php:71
+msgid "CTA URL"
+msgstr ""
+
+#: ../admin/widgets/stats.php:16 ../admin/widgets/stats.php:25
+#: ../admin/widgets/stats.php:44
+#: ../admin/post-types/class-wbls-fw-stats.php:21
+msgid "Stats"
+msgstr ""
+
+#: ../admin/widgets/stats.php:17
+msgid "Displays stats details"
+msgstr ""
+
+#: ../admin/widgets/stats.php:50
+msgid "Stat Post"
+msgstr ""
+
+#: ../admin/widgets/stats.php:72
+msgid "Enter stat details using Stats custom post type"
+msgstr ""
+
+#: ../admin/widgets/testimonial.php:16
+#: ../admin/post-types/class-wbls-fw-testimonial.php:22
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/widgets/testimonial.php:17
+msgid "Displays Testimonials"
+msgstr ""
+
+#: ../admin/widgets/testimonial.php:25 ../admin/widgets/testimonial.php:43
+#: ../admin/post-types/class-wbls-fw-testimonial.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: ../admin/widgets/testimonial.php:54
+msgid "No. of Testimonials"
+msgstr ""
+
+#: ../admin/widgets/social-networks.php:16
+#: ../admin/widgets/social-networks.php:24
+#: ../admin/widgets/social-networks.php:42
+msgid "Social Networks"
+msgstr ""
+
+#: ../admin/widgets/social-networks.php:17
+msgid "Displays social networks"
+msgstr ""
+
+#: ../admin/widgets/social-networks.php:50
+msgid "Enter your social network URLs using Theme Options Panel"
+msgstr ""
+
+#: ../admin/widgets/heading.php:16 ../admin/widgets/heading.php:69
+msgid "Heading"
+msgstr ""
+
+#: ../admin/widgets/heading.php:17
+msgid "Heading Widget"
+msgstr ""
+
+#: ../admin/widgets/heading.php:51 ../admin/widgets/heading.php:62
+msgid "Level"
+msgstr ""
+
+#: ../admin/widgets/alert.php:14
+msgid "Alert"
+msgstr ""
+
+#: ../admin/widgets/alert.php:15
+msgid "Alert Widget"
+msgstr ""
+
+#: ../admin/widgets/alert.php:58
+msgid "Type of Alert"
+msgstr ""
+
+#: ../admin/widgets/alert.php:62
+msgid "Notice"
+msgstr ""
+
+#: ../admin/widgets/alert.php:64
+msgid "Warning"
+msgstr ""
+
+#: ../admin/widgets/alert.php:66
+msgid "Success"
+msgstr ""
+
+#: ../admin/widgets/alert.php:68
+msgid "Error"
+msgstr ""
+
+#: ../admin/widgets/alert.php:70
+msgid "Info"
+msgstr ""
+
+#: ../admin/widgets/alert.php:75
+msgid "Need close option?"
+msgstr ""
+
+#: ../admin/widgets/alert.php:79
+msgid "Yes"
+msgstr ""
+
+#: ../admin/widgets/alert.php:81
+msgid "No"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:16
+msgid "Google Font"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:17
+msgid "Google Font Widget"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:63
+msgid "Google Font Family Name"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:67
+msgid "Size (Enter w/o units, pixels will be used)"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:71
+msgid "Font Weight (comma separate format. ex. 400,600)"
+msgstr ""
+
+#: ../admin/widgets/googlefont.php:75
+msgid "Font Weight to use"
+msgstr ""
+
+#: ../admin/widgets/recent-work.php:16 ../admin/widgets/recent-work.php:23
+#: ../admin/widgets/recent-work.php:41
+msgid "Recent Work"
+msgstr ""
+
+#: ../admin/widgets/recent-work.php:17
+msgid "Displays Recent Works"
+msgstr ""
+
+#: ../admin/widgets/recent-work.php:24 ../admin/widgets/recent-work.php:42
+msgid "Carousel"
+msgstr ""
+
+#: ../admin/widgets/recent-work.php:53
+msgid "Work Count"
+msgstr ""
+
+#: ../admin/widgets/recent-work.php:57 ../admin/widgets/flexslider.php:59
+msgid "Type"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:16
+msgid "Circle Icon"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:17 ../admin/widgets/icon.php:17
+msgid "An icon in a circle with some text beneath it"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:81
+msgid "Icon Type"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:107 ../admin/widgets/icon.php:90
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:109 ../admin/widgets/icon.php:92
+msgid "A hex color"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:112 ../admin/widgets/icon.php:95
+msgid "Icon Size"
+msgstr ""
+
+#: ../admin/widgets/icon-box.php:133 ../admin/widgets/icon.php:125
+msgid "Link title and icon to \"More URL\""
+msgstr ""
+
+#: ../admin/widgets/icon.php:106
+msgid "Icon Placement"
+msgstr ""
+
+#: ../admin/widgets/image.php:11
+msgid "Image"
+msgstr ""
+
+#: ../admin/widgets/image.php:13
+msgid "Displays a single image."
+msgstr ""
+
+#: ../admin/widgets/image.php:38
+msgid "Destination URL"
+msgstr ""
+
+#: ../admin/widgets/service-page.php:16
+msgid "Service Page"
+msgstr ""
+
+#: ../admin/widgets/service-page.php:17
+msgid "Display Page Featured Image and Content"
+msgstr ""
+
+#: ../admin/widgets/service-page.php:63
+msgid " Service Page"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:15
+msgid "Dropcap"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:16
+msgid "Dropcap Widget"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:57
+msgid "Dropcap style"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:60
+msgid "Circle"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:61
+msgid "Box"
+msgstr ""
+
+#: ../admin/widgets/dropcap.php:62
+msgid "Book"
+msgstr ""
+
+#: ../admin/widgets/flexslider.php:16
+#: ../admin/post-types/class-wbls-fw-flexslider.php:22
+msgid "Flex Slider"
+msgstr ""
+
+#: ../admin/widgets/flexslider.php:17
+msgid "Displays Flexslider"
+msgstr ""
+
+#: ../admin/widgets/flexslider.php:49
+msgid "Slider"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:15
+msgid "Our Team"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:16
+msgid "Our Team Widget"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:67
+msgid "Name of Team Member"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:71
+msgid "Designation of Team Member"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:75
+msgid "Image URL of Team Member"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:79
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:83
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:87
+msgid "Twitter URL"
+msgstr ""
+
+#: ../admin/widgets/ourteam.php:91
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/widgets/soundcloud.php:16
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../admin/widgets/soundcloud.php:17
+msgid "Sound Cloud Widget"
+msgstr ""
+
+#: ../admin/widgets/soundcloud.php:55
+msgid "Sound Cloud URL"
+msgstr ""
+
+#: ../admin/widgets/soundcloud.php:74
+msgid "Auto Play"
+msgstr ""
+
+#: ../admin/widgets/button.php:15
+msgid "Button"
+msgstr ""
+
+#: ../admin/widgets/button.php:16
+msgid "Button Widget"
+msgstr ""
+
+#: ../admin/widgets/button.php:67
+msgid "Link URL"
+msgstr ""
+
+#: ../admin/widgets/button.php:71
+msgid "Link Target"
+msgstr ""
+
+#: ../admin/widgets/button.php:78
+msgid "Need size option?"
+msgstr ""
+
+#: ../admin/widgets/button.php:80
+msgid "Mini"
+msgstr ""
+
+#: ../admin/widgets/button.php:81
+msgid "Small"
+msgstr ""
+
+#: ../admin/widgets/button.php:82 ../admin/widgets/button.php:89
+msgid "Normal"
+msgstr ""
+
+#: ../admin/widgets/button.php:83
+msgid "Large"
+msgstr ""
+
+#: ../admin/widgets/button.php:87
+msgid "Button Color:"
+msgstr ""
+
+#: ../admin/widgets/button.php:90
+msgid "Blue"
+msgstr ""
+
+#: ../admin/widgets/button.php:91
+msgid "Red"
+msgstr ""
+
+#: ../admin/widgets/button.php:92
+msgid "Yellow"
+msgstr ""
+
+#: ../admin/widgets/button.php:93
+msgid "Green"
+msgstr ""
+
+#: ../admin/widgets/button.php:94
+msgid "Light Blue"
+msgstr ""
+
+#: ../admin/widgets/button.php:95
+msgid "Black"
+msgstr ""
+
+#: ../admin/widgets/button.php:96
+msgid "White"
+msgstr ""
+
+#: ../admin/widgets/templates/icon-box.php:16
+#: ../admin/widgets/templates/icon.php:40
+msgid "More Info"
+msgstr ""
+
+#: ../admin/widgets/templates/service-page.php:10
+#: ../public/views/portfolio.php:119
+#: ../public/views/portfolio-4col_text.php:123
+#: ../public/views/portfolio-3col_text.php:130
+#: ../public/views/portfolio-2col_text.php:137
+msgid "Read More"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:21
+msgid "FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:22
+msgid "FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:23
+#: ../admin/post-types/class-wbls-fw-faq.php:24
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:25
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:26
+msgid "New FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:27
+msgid "All FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:28
+msgid "View FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:29
+msgid "Search FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:30
+msgid "No FAQs Found"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-faq.php:31
+msgid "No FAQs Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:22
+#: ../admin/post-types/class-wbls-fw-portfolio.php:94
+msgid "Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:23
+#: ../admin/post-types/class-wbls-fw-skill.php:24
+#: ../admin/post-types/class-wbls-fw-portfolio.php:62
+msgid "Add New Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:25
+#: ../admin/post-types/class-wbls-fw-portfolio.php:60
+msgid "Edit Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:26
+msgid "New Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:27
+#: ../admin/post-types/class-wbls-fw-portfolio.php:57
+msgid "All Skills"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:28
+msgid "View Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:29
+#: ../admin/post-types/class-wbls-fw-stats.php:29
+#: ../admin/post-types/class-wbls-fw-portfolio.php:56
+msgid "Search Skills"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:30
+#: ../admin/post-types/class-wbls-fw-stats.php:30
+msgid "No Skills Found"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-skill.php:31
+#: ../admin/post-types/class-wbls-fw-stats.php:31
+msgid "No Skills Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:21
+msgid "Flex Sliders"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:23
+#: ../admin/post-types/class-wbls-fw-flexslider.php:24
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:23
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:24
+msgid "Add New Slide"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:25
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:25
+msgid "Edit Slide"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:26
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:26
+msgid "New Slide"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:27
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:27
+msgid "All Slides"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:28
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:28
+msgid "View Slide"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:29
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:29
+msgid "Search Slides"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:30
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:30
+msgid "No Slides Found"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:31
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:31
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:47
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:47
+msgctxt "taxonomy general name"
+msgid "Slide Groups"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:48
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:48
+msgctxt "taxonomy singular name"
+msgid "Slide Group"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:49
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:49
+msgid "Search Slide Groups"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:50
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:50
+msgid "All Slide Groups"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:51
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:51
+msgid "Parent Slide Group"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:52
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:52
+msgid "Parent Slide Group:"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:53
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:53
+msgid "Edit Slide Group"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:54
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:54
+msgid "Update Slide Group"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:55
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:55
+msgid "Add New Slide Group"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:56
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:56
+msgid "New Slide Group Name"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:57
+#: ../admin/post-types/class-wbls-fw-flexslider.php:89
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:57
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:88
+msgid "Slide Groups"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:87
+msgid "Slide Name"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:88
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:87
+#: ../admin/post-types/class-wbls-fw-portfolio.php:95
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:90
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:89
+#: ../admin/post-types/class-wbls-fw-portfolio.php:97
+msgid "Date"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:112
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:111
+msgid "Assign a Slider Group!"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-flexslider.php:139
+msgid "No Groups assigned. Please assign one!"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:22
+msgid "Stat"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:23
+#: ../admin/post-types/class-wbls-fw-stats.php:24
+msgid "Add New Stat"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:25
+msgid "Edit Stat"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:26
+msgid "New Stat"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:27
+msgid "All Stats"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-stats.php:28
+msgid "View Stat"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:23
+#: ../admin/post-types/class-wbls-fw-testimonial.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:25
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:26
+msgid "New Testimonial"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:27
+msgid "All Testimonials"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:28
+msgid "View Testimonial"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:29
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:30
+msgid "No Testimonials Found"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-testimonial.php:31
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:21
+msgid "Elastic Sliders"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:22
+msgid "Elastic Slider"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:86
+msgid "Slide"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-elastic-slider.php:138
+msgid "No Groups"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:21
+msgid "Projects"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:22
+msgid "Project"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:23
+#: ../admin/post-types/class-wbls-fw-portfolio.php:24
+msgid "Add New Project"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:25
+msgid "Edit Project"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:26
+msgid "New Project"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:27
+msgid "All Projects"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:28
+msgid "View Project"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:29
+msgid "Search Projects"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:30
+msgid "No Projects Found"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:31
+msgid "No Projects Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:54
+msgctxt "taxonomy general name"
+msgid "Skills"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:55
+msgctxt "taxonomy singular name"
+msgid "Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:58
+msgid "Parent Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:59
+msgid "Parent Skill:"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:61
+msgid "Update Skill"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:63
+msgid "New Skill Name"
+msgstr ""
+
+#: ../admin/post-types/class-wbls-fw-portfolio.php:144
+msgid "No Skills assigned to this project"
+msgstr ""
+
+#: ../public/template-tags.php:19
+msgid "Posts navigation"
+msgstr ""
+
+#: ../public/template-tags.php:23
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../public/template-tags.php:27
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../public/template-tags.php:73
+msgid "First"
+msgstr ""
+
+#: ../public/template-tags.php:90
+msgid "Last"
+msgstr ""
+
+#: ../public/template-tags.php:125 ../public/template-tags.php:128
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:62
+msgid "Portfolio"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:63
+msgid "2 Col Portfolio"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:64
+msgid "2 Col Portfolio Sidebar"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:65
+msgid "2 Col Portfolio Text"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:66
+msgid "3 Col Portfolio"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:67
+msgid "3 Col Portfolio Sidebar"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:68
+msgid "3 Col Portfolio Text"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:69
+msgid "4 Col Portfolio"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:70
+msgid "4 Col Portfolio Text"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:71
+msgid "Blog Fullwidth"
+msgstr ""
+
+#: ../public/class-wbls-fw-page-template-loader.php:72
+msgid "Blog Large"
+msgstr ""
+
+#: ../public/views/portfolio.php:142
+#: ../public/views/portfolio-4col_text.php:145
+#: ../public/views/portfolio-3col_sidebar.php:154
+#: ../public/views/portfolio-2col_sidebar.php:150
+#: ../public/views/portfolio-3col_text.php:153
+#: ../public/views/portfolio-4col.php:145
+#: ../public/views/portfolio-2col.php:149
+#: ../public/views/portfolio-2col_text.php:160
+#: ../public/views/single-portfolio.php:143
+#: ../public/views/portfolio-3col.php:150
+msgid "Page Not Found"
+msgstr ""
+
+#: ../public/views/portfolio.php:148
+#: ../public/views/portfolio-4col_text.php:151
+#: ../public/views/portfolio-3col_sidebar.php:160
+#: ../public/views/portfolio-2col_sidebar.php:156
+#: ../public/views/portfolio-3col_text.php:159
+#: ../public/views/portfolio-4col.php:151
+#: ../public/views/portfolio-2col.php:155
+#: ../public/views/portfolio-2col_text.php:166
+#: ../public/views/single-portfolio.php:149
+#: ../public/views/portfolio-3col.php:156
+#, php-format
+msgid ""
+"The page you were looking for was not found!. You can return %s or search "
+"for the page you were looking for."
+msgstr ""
+
+#: ../public/views/portfolio.php:156
+#: ../public/views/portfolio-4col_text.php:159
+#: ../public/views/portfolio-3col_sidebar.php:168
+#: ../public/views/portfolio-2col_sidebar.php:164
+#: ../public/views/portfolio-3col_text.php:167
+#: ../public/views/portfolio-4col.php:159
+#: ../public/views/portfolio-2col.php:163
+#: ../public/views/portfolio-2col_text.php:174
+#: ../public/views/single-portfolio.php:157
+#: ../public/views/portfolio-3col.php:164
+msgid "This is the error message in the page.php template."
+msgstr ""
+
+#: ../public/views/single-portfolio.php:40
+#: ../public/views/single-portfolio.php:108
+msgid "Project Description"
+msgstr ""
+
+#: ../public/views/single-portfolio.php:45
+msgid "Skill needed"
+msgstr ""
+
+#: ../public/views/single-portfolio.php:47
+msgid "Category"
+msgstr ""
+
+#: ../public/views/single-portfolio.php:50
+msgid "Project Website"
+msgstr ""
+
+#: ../public/views/single-portfolio.php:80
+msgid "Project Details"
+msgstr ""
+
+#: ../public/views/single-portfolio.php:82
+msgid "Project Date"
+msgstr ""

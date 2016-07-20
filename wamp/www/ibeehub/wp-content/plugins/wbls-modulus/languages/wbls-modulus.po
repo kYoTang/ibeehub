@@ -1,0 +1,1732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wbls-Modulus\n"
+"POT-Creation-Date: 2016-06-06 11:27+0530\n"
+"PO-Revision-Date: 2016-06-06 11:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: Webulous\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_n_noop:1,2;"
+"_n_noop:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wbls-modulus.php:112
+msgid "Plugin License Options"
+msgstr ""
+
+#: ../wbls-modulus.php:121
+msgid "License Key"
+msgstr ""
+
+#: ../wbls-modulus.php:125
+msgid "Enter your license key"
+msgstr ""
+
+#: ../wbls-modulus.php:131 ../wbls-modulus.php:140
+msgid "Activate License"
+msgstr ""
+
+#: ../wbls-modulus.php:135
+msgid "active"
+msgstr ""
+
+#: ../wbls-modulus.php:137
+msgid "Deactivate License"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:134
+#: ../demo/importer/wordpress-importer.php:143
+#: ../demo/importer/wordpress-importer.php:194
+#: ../demo/importer/wordpress-importer.php:198
+#: ../demo/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:505
+#: ../demo/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../demo/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../demo/importer/parsers.php:42 ../demo/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../demo/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../demo/importer/parsers.php:67 ../demo/importer/parsers.php:72
+#: ../demo/importer/parsers.php:262 ../demo/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:213
+msgid "Demo already imported"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:233
+msgid "Import Again"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:237
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:449
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:507
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:580
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:602
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:625
+msgid "Widget already exists"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:674
+msgid "Imported"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:677
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../demo/importer/radium-importer.php:684
+msgid "No Title"
+msgstr ""
+
+#: ../includes/panels.php:19
+msgid "Default Home"
+msgstr ""
+
+#: ../includes/panels.php:20
+msgid "Pre Built Layout for  home page"
+msgstr ""
+
+#: ../includes/panels.php:1159
+msgid "About Us"
+msgstr ""
+
+#: ../includes/panels.php:1160
+msgid "Pre Built layout for about us page"
+msgstr ""
+
+#: ../includes/panels.php:1920
+msgid "Features Page"
+msgstr ""
+
+#: ../includes/panels.php:1921
+msgid "Pre Built layout for features page"
+msgstr ""
+
+#: ../includes/panels.php:2641
+msgid "Contact Us Page"
+msgstr ""
+
+#: ../includes/panels.php:2642
+msgid "Pre Built layout for contact us page"
+msgstr ""
+
+#: ../includes/panels.php:2826
+msgid "Faq Page"
+msgstr ""
+
+#: ../includes/panels.php:2827
+msgid "Pre Built Layout for default faq page"
+msgstr ""
+
+#: ../includes/panels.php:2958
+msgid "Services Page"
+msgstr ""
+
+#: ../includes/panels.php:2959
+msgid "Pre Built Layout for services page"
+msgstr ""
+
+#: ../includes/panels.php:3413
+msgid " --- Default --- "
+msgstr ""
+
+#: ../includes/panels.php:3414 ../includes/panels.php:3431
+msgid "fadeInUpBig-animation"
+msgstr ""
+
+#: ../includes/panels.php:3415
+msgid "bigEntrance-animation"
+msgstr ""
+
+#: ../includes/panels.php:3416
+msgid "boingInUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3417
+msgid "bounce-animation"
+msgstr ""
+
+#: ../includes/panels.php:3418
+msgid "bounceInLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3419
+msgid "bounceInRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3420
+msgid "bounceInUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3421
+msgid "expandUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3422
+msgid "fade-animation"
+msgstr ""
+
+#: ../includes/panels.php:3423
+msgid "fadeIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3424
+msgid "fadeInDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3425
+msgid "fadeInDownBig-animation"
+msgstr ""
+
+#: ../includes/panels.php:3426
+msgid "fadeInLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3427
+msgid "fadeInLeftBig-animation"
+msgstr ""
+
+#: ../includes/panels.php:3428
+msgid "fadeInRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3429
+msgid "fadeInRightBig-animation"
+msgstr ""
+
+#: ../includes/panels.php:3430
+msgid "fadeInUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3432
+msgid "flip-animation"
+msgstr ""
+
+#: ../includes/panels.php:3433
+msgid "flipInX-animation"
+msgstr ""
+
+#: ../includes/panels.php:3434
+msgid "flipInY-animation"
+msgstr ""
+
+#: ../includes/panels.php:3435
+msgid "floating-animation"
+msgstr ""
+
+#: ../includes/panels.php:3436
+msgid "foolishIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3437
+msgid "hatch-animation"
+msgstr ""
+
+#: ../includes/panels.php:3438
+msgid "lightSpeedIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3439
+msgid "puffIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3440
+msgid "pullDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3441
+msgid "pullUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3442
+msgid "pulse-animation"
+msgstr ""
+
+#: ../includes/panels.php:3443
+msgid "rollInLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3444
+msgid "rollInRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3445
+msgid "rotateIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3446
+msgid "rotateInDownLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3447
+msgid "rotateInDownRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3448
+msgid "rotateInUpLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3449
+msgid "rotateInUpRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3450
+msgid "scale-down-animation"
+msgstr ""
+
+#: ../includes/panels.php:3451
+msgid "scale-up-animation"
+msgstr ""
+
+#: ../includes/panels.php:3452
+msgid "slide-bottom-animation"
+msgstr ""
+
+#: ../includes/panels.php:3453
+msgid "slide-left-animation"
+msgstr ""
+
+#: ../includes/panels.php:3454
+msgid "slide-right-animation"
+msgstr ""
+
+#: ../includes/panels.php:3455
+msgid "slide-top-animation"
+msgstr ""
+
+#: ../includes/panels.php:3456
+msgid "slideDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3457
+msgid "slideExpandUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3458
+msgid "slideInDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3459
+msgid "bouslideInLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3460
+msgid "slideInRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3461
+msgid "slideLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3462
+msgid "slideRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3463
+msgid "slideUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3464
+msgid "spaceInDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3465
+msgid "spaceInLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3466
+msgid "spaceInRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3467
+msgid "spaceInUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3468
+msgid "stretchLeft-animation"
+msgstr ""
+
+#: ../includes/panels.php:3469
+msgid "stretchRight-animation"
+msgstr ""
+
+#: ../includes/panels.php:3470
+msgid "swap-animation"
+msgstr ""
+
+#: ../includes/panels.php:3471
+msgid "swashIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3472
+msgid "swing-animation"
+msgstr ""
+
+#: ../includes/panels.php:3473
+msgid "tinDownIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3474
+msgid "tinRightIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3475
+msgid "tinUpIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3476
+msgid "tossing-animation"
+msgstr ""
+
+#: ../includes/panels.php:3477
+msgid "twisterInDown-animation"
+msgstr ""
+
+#: ../includes/panels.php:3478
+msgid "twisterInUp-animation"
+msgstr ""
+
+#: ../includes/panels.php:3479
+msgid "wobble-animation"
+msgstr ""
+
+#: ../includes/panels.php:3480
+msgid "zoomIn-animation"
+msgstr ""
+
+#: ../includes/panels.php:3484
+msgid "Animation Class"
+msgstr ""
+
+#: ../includes/panels.php:3510
+msgid "Animation"
+msgstr ""
+
+#: ../includes/EDD_SL_Plugin_Updater.php:186
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: ../includes/EDD_SL_Plugin_Updater.php:193
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: ../includes/EDD_SL_Plugin_Updater.php:334
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/EDD_SL_Plugin_Updater.php:334
+msgid "Error"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:306
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:307
+msgid "Install Plugins"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:308
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:309
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:311
+#, php-format
+msgctxt "This theme requires the following plugins: %1$s."
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:316
+#, php-format
+msgctxt "This theme recommends the following plugins: %1$s."
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:321
+#, php-format
+msgctxt ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:326
+#, php-format
+msgctxt ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:331
+#, php-format
+msgctxt "There are updates available for the following plugins: %1$s."
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:336
+#, php-format
+msgctxt ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:341
+#, php-format
+msgctxt "The following required plugins are currently inactive: %1$s."
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:346
+#, php-format
+msgctxt "The following recommended plugins are currently inactive: %1$s."
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:351
+#, php-format
+msgctxt ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:356
+msgctxt "Begin installing plugins"
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:361
+msgctxt "Begin updating plugins"
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:366
+msgctxt "Begin activating plugins"
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:370
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:371
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:372
+#: ../admin/class-tgm-plugin-activation.php:3007
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:373
+#: ../admin/class-tgm-plugin-activation.php:2810
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:375
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:376
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:377
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:378
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:1859
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2145
+msgid "Required"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2148
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2164
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2167
+msgid "External Source"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2170
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2187
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2191
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2193
+msgid "Active"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2199
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2202
+msgid "Requires Update"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2205
+msgid "Update recommended"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2213
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2261
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/class-tgm-plugin-activation.php:2264
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/class-tgm-plugin-activation.php:2267
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../admin/class-tgm-plugin-activation.php:2349
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2357
+msgid "Installed version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2365
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2377
+msgid "Available version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2414
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2415
+msgid "Source"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2416
+msgid "Type"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2420
+msgid "Version"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2421
+msgid "Status"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2469
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2478
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2581
+msgid "Install"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2587
+msgid "Update"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2590
+msgid "Activate"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2621
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2623
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2659
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2661
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3006
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3340
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3342
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3343
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3347
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3348
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3349
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3350
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3353
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3355
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/class-wbls-theme-shortcode.php:262
+msgid "Current"
+msgstr ""
+
+#: ../admin/class-wbls-theme-shortcode.php:1013
+#: ../admin/class-wbls-theme-shortcode.php:1037
+#: ../admin/widgets/templates/service-page.php:9
+msgid "Read More"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:12
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:15
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:22
+msgid "Google Fonts"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:33
+msgid "Font Weight/Style"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:35
+#: ../public/class-wbls-theme-hooks.php:534
+msgid "Normal"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:36
+msgid "Bold"
+msgstr ""
+
+#: ../admin/class-wbls-customize-typography-control.php:40
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/widgets/templates/icon-box.php:20
+#: ../admin/widgets/templates/icon.php:41
+msgid "More Info"
+msgstr ""
+
+#: ../public/template-tags.php:25
+msgid "Posts navigation"
+msgstr ""
+
+#: ../public/template-tags.php:29
+msgid "<span class=\"meta-nav\"><span>&larr;</span></span> Older posts"
+msgstr ""
+
+#: ../public/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\"><span>&rarr;</span></span>"
+msgstr ""
+
+#: ../public/template-tags.php:82
+msgid "First"
+msgstr ""
+
+#: ../public/template-tags.php:99
+msgid "Last"
+msgstr ""
+
+#: ../public/template-tags.php:204 ../public/template-tags.php:207
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: ../public/template-tags.php:216 ../public/template-tags.php:234
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: ../public/template-tags.php:226 ../public/template-tags.php:245
+msgid "Leave a comment"
+msgstr ""
+
+#: ../public/template-tags.php:226 ../public/template-tags.php:245
+msgid "1 Comment"
+msgstr ""
+
+#: ../public/template-tags.php:226 ../public/template-tags.php:245
+msgid "% Comments"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:66
+msgid "Typography"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:67
+msgid "Typography and Link Color Settings"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:70
+msgid "General Settings"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:75
+msgid "Enable Custom Typography"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:76
+msgid "Turn on to customize typography and turn off for default typography."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:84
+msgid "Body Font"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:85
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:94
+msgid "Body Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:103
+msgid "H1 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:104
+msgid "Specify the h1 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:113
+msgid "H1 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:122
+msgid "H2 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:123
+msgid "Specify the h2 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:132
+msgid "H2 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:141
+msgid "H3 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:142
+msgid "Specify the h3 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:151
+msgid "H3 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:160
+msgid "H4 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:161
+msgid "Specify the h4 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:170
+msgid "H4 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:179
+msgid "H5 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:180
+msgid "Specify the h5 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:189
+msgid "H5 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:198
+msgid "H6 Font Properties"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:199
+msgid "Specify the h6 font properties."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:208
+msgid "H6 Color"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:221
+#: ../public/class-wbls-theme-hooks.php:222
+msgid "Pro Options"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:225
+msgid "Color Scheme "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:226
+msgid "Select your color scheme"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:230
+msgid "Select your color scheme."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:231
+msgid " "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:233
+msgid "Default"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:234
+msgid "Blue"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:235
+msgid "Green"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:236
+msgid "Pink"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:237
+msgid "Purple"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:238
+msgid "Red"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:239
+msgid "Yellow"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:246
+msgid "Social Networks"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:247
+msgid ""
+" Enter the link below and Use Social Network widget to display these links "
+"in your page."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:251
+msgid "Digg"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:252
+msgid "Your Digg link "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:257
+msgid "Dribbble"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:258
+msgid "Your Dribbble link "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:263
+msgid "Facebook"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:264
+msgid "Your Facebook link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:269
+msgid "Twitter"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:270
+msgid "Your Twitter link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:275
+msgid "Google +"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:276
+msgid "Your Google Plus"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:282
+msgid "LinkedIn"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:283
+msgid "Your LinkedIn link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:288
+msgid "Instagram"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:289
+msgid "Your Instagram link "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:294
+msgid "Flickr"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:295
+msgid "Your Flickr link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:300
+msgid "YouTube"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:301
+msgid "Your YouTube link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:306
+msgid "Vimeo"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:307
+msgid "Your Vimeo link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:312
+msgid "Pinterest"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:313
+msgid "Your Pinterest link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:318
+msgid "RSS"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:319
+msgid "Your RSS link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:324
+msgid "Skype"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:325
+msgid "Your Skype link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:330
+msgid "Tumblr"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:331
+msgid "Your Tumblr link"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:338
+msgid "Flex Slider"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:339
+msgid "Flex Slider Settings"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:343
+msgid "Select slider animation effect"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:344
+msgid "Select slider animation effect."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:346
+msgid "Fade"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:347
+msgid "Slide"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:353
+msgid "Select direction to slide "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:354
+msgid "Select direction to slide (if you are using the \"Slide\" animation)"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:356
+msgid "Horizontal"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:357
+msgid "Vertical"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:363
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:364
+msgid "Set the delay between each slide animation (in milliseconds)"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:374
+#: ../public/class-wbls-theme-hooks.php:529
+msgid "Animation Speed"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:375
+msgid "Set the duration of each slide animation (in milliseconds)"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:385
+#: ../public/class-wbls-theme-hooks.php:386
+msgid "Enable Animate the slideshows automatically"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:391
+msgid ""
+"Enable to Adjust the height of the slideshow to the height of the current "
+"slide"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:392
+msgid ""
+"Enable Adjust the height of the slideshow to the height of the current slide"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:397
+#: ../public/class-wbls-theme-hooks.php:398
+msgid "Enable  Display the \"Previous/Next\" Buttons"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:403
+#: ../public/class-wbls-theme-hooks.php:404
+msgid "Enable Display the slideshow pagination"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:409
+msgid " Enable Keyboard Navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:410
+msgid "Enable keyboard navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:415
+msgid " Enable Mouse Wheel Navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:416
+msgid "Enable the mousewheel navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:421
+msgid " Enable Pause / Play event"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:422
+msgid "Enable the \"Pause/Play\" event"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:427
+msgid "Enable Random Slides"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:428
+msgid "Enable to Randomize the order of slides in slideshows"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:433
+msgid "Enable Loop Slideshow animations"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:434
+msgid "Enable Loop the slideshow animations"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:439
+msgid "Enable Pause On Action while navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:440
+msgid ""
+"Enable Pause the slideshow autoplay when using the pagination or \"Previous/"
+"Next\" navigation"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:445
+msgid " Enable Pause On Action while hovering the slides"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:446
+msgid "Enable to Pause the slideshow autoplay when hovering over a slide"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:451
+msgid " The text to display on the \"Previous\" button"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:452
+msgid " The text to display on the \"Previous\" button."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:458
+msgid " The text to display on the \"Next\" button"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:459
+msgid " The text to display on the \"Next\" button."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:465
+msgid " The text to display on the \"Play\" button"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:466
+msgid " The text to display on the \"Play\" button."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:472
+msgid "The text to display on the \"Pause\" button"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:473
+msgid " The text to display on the \"Pause\" button."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:481
+msgid "Flex Carousel Slider"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:482
+msgid "Flex Carousel Settings"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:486
+msgid "Loop through carousel items?"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:491
+msgid "Carousel item width"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:497
+msgid "Carousel item margin"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:503
+msgid "Enable Carousel Pagination"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:510
+msgid "Light Box"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:511
+msgid "Light Box Settings "
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:515
+msgid "Lightbox Theme"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:518
+msgid "pp_default"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:519
+msgid "light-rounded"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:520
+msgid "dark-rounded"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:521
+msgid "light-square"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:522
+msgid "dark-square"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:523
+msgid "facebook"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:532
+msgid "Fast"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:533
+msgid "Slow"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:540
+msgid "Autoplay Gallery Speed"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:541
+msgid ""
+"If autoplay is set to true, select the slideshow speed in ms. (Default: "
+"5000, 1000 ms = 1 second)"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:551
+msgid "Enable Autoplay Gallery"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:552
+msgid "Check to autoplay the lightbox gallery"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:557
+msgid "Select Background Opacity"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:558
+msgid "Enter 0.1 to 1.0"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:574
+msgid "Show Gallery Thumbnails"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:575
+msgid "Check to show gallery thumbnails"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:588
+#: ../public/class-wbls-theme-hooks.php:589
+msgid "Tracking Code"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:593
+msgid ""
+"Tracking Code :Paste your Google Analytics (or other) tracking code here. "
+"This will be added into the footer template of your theme. Validate that "
+"it's javascript!"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:594
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme. <b>Validate that it's "
+"javascript!</b>"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:599
+msgid "Enable to Load Tracking Code in Footer"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:600
+msgid "Check to load analytics in footer. Uncheck to load in header."
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:606
+msgid " Custom Js"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:607
+msgid "Custom Js"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:611
+msgid ""
+"Custom Javascript: Quickly add some Javascript to your theme by adding it to "
+"this block.  Validate that it's javascript!"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:618
+msgid " Custom CSS"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:619
+msgid "Custom CSS"
+msgstr ""
+
+#: ../public/class-wbls-theme-hooks.php:623
+msgid ""
+"Custom CSS: Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../public/views/blog-large.php:77 ../public/views/blog-fullwidth.php:65
+msgid "Readmore"
+msgstr ""
+
+#: ../public/views/blog-large.php:82 ../public/views/blog-fullwidth.php:70
+msgid "Pages:"
+msgstr ""
+
+#: ../public/views/blog-large.php:91 ../public/views/blog-large.php:102
+#: ../public/views/blog-fullwidth.php:79 ../public/views/blog-fullwidth.php:90
+msgid ", "
+msgstr ""
+
+#: ../public/views/blog-large.php:96 ../public/views/blog-large.php:107
+#: ../public/views/blog-fullwidth.php:84 ../public/views/blog-fullwidth.php:95
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: ../public/views/blog-large.php:111 ../public/views/blog-fullwidth.php:99
+msgid "<span class=\"edit-link\"><i class=\"fa fa-pencil\"></i> Edit</span>"
+msgstr ""
+
+#: ../public/views/single-post-fullwidth.php:27
+msgid "Share this on ..."
+msgstr ""
+
+#: ../public/views/single-post-fullwidth.php:76
+msgid "About Author:"
+msgstr ""

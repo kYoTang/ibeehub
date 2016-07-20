@@ -1,0 +1,28 @@
+Version 1.0
+i)   Intial version Release
+
+Version 1.2
+i)   Solved all issues as per reviewer comments
+
+Version 1.3
+i)   Add Comments closed on the listing (home, archive, etc.) as per reviewer comments
+ii)  Solved untranslated code issue from functions.php
+iii) Solved untranslated strings problem from customizer.php and also recompile language file.
+iv)  In footer.php as per reviewer recommendation we will making year with dynamice date.
+
+Version 1.4
+i)   Solved all issues as per reviewer comments
+
+Version 1.5
+i)   All changes done as per reviewer comments. 
+
+Version 1.6
+i)   Header Ads Widget Position Change
+ii)  Default post thumbnail set
+iii) Spelling Correction
+
+Version 1.7
+i)   Solved issues as per reviewer comments
+
+Version 1.8
+i)   Translated theme into 15 languages

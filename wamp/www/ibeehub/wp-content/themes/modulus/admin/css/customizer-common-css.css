@@ -1,0 +1,17 @@
+#modulus-review-rate-link {
+  position:absolute;
+  bottom:0;
+  width:70%;
+  right:10px;
+  text-align: right;
+  color: #000;
+}
+#modulus-review-rate-link:focus {
+  box-shadow: none;
+}
+.modulus-star {
+  color: #e6b800;
+}
+.modulus-star:hover {
+  color: green;
+}

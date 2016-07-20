@@ -1,0 +1,27 @@
+ .modulus-docs {
+	display: block;
+	font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 8px 15px;
+    color: white; 
+    border-radius: 4px;
+}
+.doc {
+    background-color: #00c1cf;
+    margin-top: 20px;
+
+}
+.question {
+	background-color: #C50D0D;
+	margin: 10px 0px;
+}
+
+ .modulus-docs:hover {
+ 	background-color: #000;
+    color: #fff;
+ }
+ 
+ #customize-control-color {
+    display: none!important;
+}
